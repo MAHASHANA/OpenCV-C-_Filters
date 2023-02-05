@@ -2,7 +2,9 @@
 Srinivas Peri 
 
 OS: Windows 11
+
 IDE: visual Studio 2022 
+
 opencv version: 4.6.0. 2022-06-12, using build vc15
 
 After downloading the ConsoleApplication1 zip file add it to your vs 2022 file path and
