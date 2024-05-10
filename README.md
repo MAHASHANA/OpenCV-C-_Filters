@@ -38,17 +38,3 @@ comment out the vidDisplay.cpp to run the imDispaly.cpp file.
 2. When you are implimenting cartonization to exit from the loop  press and hold p for a second.
 
 3. keep the curser on the main video window and hold q for 2 seconds to quit from all the windows.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-***If you are not using the Zip file, I have also included the necessary files. Please make use of them as you see fit.***
-
-
-###########################
-
-Reason for late submission:
-For this semester, I took Machine learning and pattern recognition (MLPR) and Pattern recognition and computer vision (PRCV), 
-and I didn't attend the first PRCV sessions because of MLPR. MLPR has now been dropped.
-
-																		
-																^^Thank you.^^
